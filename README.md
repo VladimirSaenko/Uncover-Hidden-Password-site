@@ -9,12 +9,9 @@ https://vladimirsaenko.github.io/Portfolio-3/sites/site-19/Uncover-Hidden-Passwo
 
 }
 
-![photo_2021-06-25_15-10-12](https://user-images.githubusercontent.com/56477695/123425724-2887d500-d5cb-11eb-9296-172eff83ac5b.jpg)
-
 Codepen {
 
 https://codepen.io/vladimirsaenko/pen/gOmqJZb
 
 }
 
-P.S Это не являеться настоящим взломом пароля!
